@@ -1,15 +1,15 @@
 ### ** Objetivo **
  - Desenvolver um Sistema de Catálogo Digital.\
-    - Esse sistema vai permitir ao assinante da ferramenta cadastrar seus produtos, com a sua descrição,\
-suas fotos e seus preços, por meio de listas de preços. 
-    A partir disso, criar diversos catálogos com todos ou parte desses produtos, especificando um nome ou\
-descrição para esse catálogo e a sua precificação, que pode ser escolhida uma lista de preço e/ou aplicar\
-um desconto ou acrescimo geral.\
-    Cada catálogo ficará disponível através de um link específico, como, por exemplo:\
-    https://app.conectadez.com/d9dcf9612c59f969b2ea536ce6\
-    Com isso, o cliente ou o representante da empresa poderão realizar os pedidos.\
-    Nesse sistema terá a possibilidade de integração com sistemas de Gestão/ERP onde tanto o envio dos produtos e\
-a coleta dos pedidos poderá ser feito através de API.  
+    - Esse sistema vai permitir ao assinante da ferramenta cadastrar seus produtos, com a sua descrição,  
+suas fotos e seus preços, por meio de listas de preços.  
+    A partir disso, criar diversos catálogos com todos ou parte desses produtos, especificando um nome ou  
+descrição para esse catálogo e a sua precificação, que pode ser escolhida uma lista de preço e/ou aplicar  
+um desconto ou acrescimo geral.  
+    Cada catálogo ficará disponível através de um link específico, como, por exemplo:  
+    https://app.conectadez.com/d9dcf9612c59f969b2ea536ce6  
+    Com isso, o cliente ou o representante da empresa poderão realizar os pedidos.  
+    Nesse sistema terá a possibilidade de integração com sistemas de Gestão/ERP onde tanto o envio dos  
+produtos e a coleta dos pedidos poderá ser feito através de API.  
 
 ### ** Regras iniciais para Análise **  
 - Pontos a serem levados em consideração antes de introduzir uma nova feature:  
