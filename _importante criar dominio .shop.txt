@@ -1,0 +1,4 @@
+#Criar o dominio .shop ou .app
+para usar como sub-dominios da marca do cliente
+Ex:
+tendenze.conectadez.app
